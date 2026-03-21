@@ -1,6 +1,3 @@
-Here — **full clean README**. Copy-paste this completely.
-
-````md
 # PeerSMB – AI Credit Scoring & Lending Marketplace
 
 PeerSMB is an end-to-end machine learning–based lending platform designed for Indian SMB (Small & Medium Business) sellers. It simulates how lenders can evaluate borrower risk using alternative financial data, allocate loans across multiple lenders, and enforce diversification constraints in a marketplace setting.
